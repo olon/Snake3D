@@ -1,0 +1,18 @@
+<Books>
+  <Book>
+    <Name>A1</Name>
+	 <Price>1.25</Price>
+  </Book>
+  <Book>
+    <Name>A2</Name>
+	 <Price>2.25</Price>
+  </Book>
+  <Book>
+    <Name>A3</Name>
+	 <Price>3.25</Price>
+  </Book>
+  <Book>
+    <Name>A4</Name>
+	 <Price>4.25</Price>
+  </Book>
+</Books>
